@@ -1,0 +1,114 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7792319d-5c59-44c1-a69c-265f705f56e1\" name=\"Changes\" comment=\"hw3 is solved\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"281vI0FjbXbODdC7MU1wklNJ0oB\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"RunManager\">\r\n    <configuration name=\"main\" type=\"PythonConfigurationType\" factoryName=\"Python\" nameIsGenerated=\"true\">\r\n      <module name=\"moth 2\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/main.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7792319d-5c59-44c1-a69c-265f705f56e1\" name=\"Changes\" comment=\"\" />\r\n      <created>1650396827694</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1650396827694</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"hw3 is solved\">\r\n      <created>1650403858691</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1650403858691</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"hw3 is solved\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"hw3 is solved\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <breakpoints>\r\n        <line-breakpoint enabled=\"true\" suspend=\"THREAD\" type=\"python-line\">\r\n          <url>file://$PROJECT_DIR$/main.py</url>\r\n          <line>1</line>\r\n          <option name=\"timeStamp\" value=\"1\" />\r\n        </line-breakpoint>\r\n      </breakpoints>\r\n    </breakpoint-manager>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision cbe95eb139144a51a836ca794f9d48160904eb6a)
++++ b/.idea/workspace.xml	(date 1650436833000)
+@@ -1,7 +1,10 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="7792319d-5c59-44c1-a69c-265f705f56e1" name="Changes" comment="hw3 is solved">
++    <list default="true" id="7792319d-5c59-44c1-a69c-265f705f56e1" name="Changes" comment="hw1 is solved">
++      <change afterPath="$PROJECT_DIR$/homewoks/__init__.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/homewoks/hw1.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/homewoks/hw2.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -32,6 +35,7 @@
+     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+   </component>
+   <component name="RunManager">
+     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+@@ -72,7 +76,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1650403858691</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="hw1 is solved">
++      <created>1650404751140</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1650404751140</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -88,7 +99,8 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="hw3 is solved" />
+-    <option name="LAST_COMMIT_MESSAGE" value="hw3 is solved" />
++    <MESSAGE value="hw1 is solved" />
++    <option name="LAST_COMMIT_MESSAGE" value="hw1 is solved" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
+Index: homewoks/hw1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/homewoks/hw1.py b/homewoks/hw1.py
+new file mode 100644
+--- /dev/null	(date 1650405753179)
++++ b/homewoks/hw1.py	(date 1650405753179)
+@@ -0,0 +1,18 @@
++    def all_info(self,weight,hp):
++        print(f"""
++        Title:{self.title}
++        Model:{self.model}
++        Weight:{weight}
++        Hp:{hp}
++        Number:{self.number}
++        max_speed:{self.max_speed}
++        color:{self.color}
++""")
++bmw=Car(' BMW ',' M135iDrive ', 3306.9 ,'306hp ',777777 ,'250km/h ',' black')
++bmw.start_engine()
++bmw.stop_engine()
++bmw.all_info(3306.9,'306hp')
++mercedes=Car('Mercedes-Bens','S-CLASS','W221','4,310',8888888,'250km/h','white')
++mercedes.start_engine()
++mercedes.stop_engine()
++mercedes.all_info(3809.2,'272hp')
+\ No newline at end of file
+Index: homewoks/hw2.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/homewoks/hw2.py b/homewoks/hw2.py
+new file mode 100644
+--- /dev/null	(date 1650405753163)
++++ b/homewoks/hw2.py	(date 1650405753163)
+@@ -0,0 +1,17 @@
++       self.balance=balance
++
++class Vito(Jack):
++
++    def init(self, first_name, last_name, phone_number, balance):
++        super().init(first_name, last_name, phone_number, balance)
++
++    _n = 50
++    def info_balance(self):
++            c = 250 -n
++            f = c + self.balance
++            self.balance = f
++            print(self.balance)
++
++Jack = Person('Jack', 'Nieck', 2345, 100)
++Vito = Jack('Vito', 'Roland', '3456', 10)
++Vito.info_balance()
+diff --git a/homewoks/__init__.py b/homewoks/__init__.py
+new file mode 100644
